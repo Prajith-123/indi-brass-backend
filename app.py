@@ -3,6 +3,7 @@ import numpy as np
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import pickle
+import joblib
 import pandas as pd
 
 # New imports for the casting inspection model
@@ -25,6 +26,12 @@ with open('pickles/price_model.pkl', 'rb') as f:
     
 with open('pickles/labor_model.pkl', 'rb') as f: 
     labor_model = pickle.load(f)
+
+# # Save to new joblib files
+joblib.dump(timeline_model, 'pickles/timeline_model.joblib')
+joblib.dump(price_model, 'pickles/price_model.joblib')
+joblib.dump(labor_model, 'pickles/labor_model.joblib')
+
 
 # New imports for the casting inspection model
 # Load your trained casting inspection model
