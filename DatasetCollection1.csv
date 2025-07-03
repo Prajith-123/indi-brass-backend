@@ -1,0 +1,73 @@
+﻿IMAGES,BUYER NO.,FACTORY NO,COUNTRY,ITEM TYPE,Material,SIZE,Item Length,Item Width,Item Height,COLOR,FINISH,BARCODE,PRICE ($),QUANTITY (PCS),IP Qty,MP Qty,TOTAL CTN.,Carton Length,Carton Width,Carton Height,TOTAL CBM PER STYLE,TOTAL AMOUNT ($),Status,COMPLETION DAYS
+Image_1,0350|41197,26141,China,Brass Box,Brass,small,12,9.5,16,Gold,Antique Brass,3.50141E+12,10.60,200,1,30,6.67,42,29,58,0.471,2120,Approved,90
+Image_1,0350|41195,26141,Australia,Brass Box,Brass,medium,16,12,20,Gold,Antique Brass,3.50141E+12,20.00,150,1,30,5,45,30,60,0.405,3000,Approved,100
+Image_1,0350|41193,26141,Australia,Brass Box,Brass,large,20,15,24,Gold,Antique Brass,3.50141E+12,25.00,100,1,30,3.33,55,40,70,0.513,2500,Approved,110
+Image_2,0350|41203,26111,China,Brass Box,Brass,small,11,11,11.5,Gold,Antique Brass,3.50141E+12,10.60,100,1,30,3.33,42,29,53,0.215,1060,Approved,85
+Image_2,0350|41206,26111,Australia,Brass Box,Brass,medium,13,13,14.5,Gold,Antique Brass,3.50141E+12,15.30,80,1,25,3.2,45,32,60,0.276,1224,Approved,95
+Image_2,0350|41207,26111,Australia,Brass Box,Brass,large,15,15,17,Gold,Antique Brass,3.50141E+12,19.90,50,1,15,3.33,48,34,64,0.348,995,Approved,105
+Image_3,0350I41210,26142,China,Brass Box,Brass,small,9.5,9.5,12.5,Gold,Antique Brass,3.50141E+12,10.00,100,1,30,3.33,42,29,58,0.235,1000,Approved,80
+Image_3,0350I41210,26142,China,Brass Box,Brass,medium,12,12,14,Gold,Antique Brass,3.50141E+12,14.00,75,1,20,3.75,45,31,62,0.324,1050,Approved,90
+Image_3,0350I41210,26142,China,Brass Box,Brass,large,15,15,18,Gold,Antique Brass,3.50141E+12,18.00,60,1,18,3.33,47,33,65,0.336,1080,Approved,100
+Image_4,0350I34500,27423,China,Brass Cake Stand,Brass,small,14,14,20,Gold,Antique Brass,3.50135E+12,10.00,150,1,30,5,48,30,50,0.36,1500,Approved,90
+Image_4,0350I34501,27425,China,Brass Cake Stand,Brass,medium,20,20,30,Gold,Antique Brass,3.50135E+12,16.50,180,1,35,5.14,50,32,58,0.477,2970,Approved,100
+Image_4,0350I34502,27427,China,Brass Cake Stand,Brass,large,26,26,38.1,Gold,Antique Brass,3.50135E+12,23.50,200,1,4,50,52,33,65,5.577,4700,Approved,110
+Image_5,0171I40534,27407,China,Decorative Box Oval Leaf Lid,Brass,small,17,11,15,Gold,Antique Brass,5.41393E+12,25.00,100,1,10,10,42,22,42,0.388,2500,Approved,90
+Image_5,0171I40535,27408,China,Decorative Box Oval Leaf Lid,Brass,medium,20,15,18,Gold,Antique Brass,5.41393E+12,30.00,150,1,15,10,44,25,45,0.495,4500,Approved,100
+Image_5,0171I40536,27409,China,Decorative Box Oval Leaf Lid,Brass,large,24,18,22,Gold,Antique Brass,5.41393E+12,35.00,200,1,20,10,50,30,50,0.75,7000,Approved,110
+Image_6,0171I41111,27407,China,Decorative Box Oval,Brass,medium,19,13,16,Gold,Antique Brass,5.41393E+12,30.50,100,1,10,10,42,22,42,0.388,3050,Approved,95
+Image_6,0171I41112,27408,China,Decorative Box Oval,Brass,small,17,11,15,Gold,Antique Brass,5.41393E+12,25.00,100,1,10,10,42,22,42,0.388,2500,Approved,90
+Image_6,0171I41113,27409,China,Decorative Box Oval,Brass,large,22,16,20,Gold,Antique Brass,5.41393E+12,35.00,150,1,15,10,50,30,50,0.75,5250,Approved,110
+Image_7,0171I40565,26141,China,Decorative Tray,Brass,medium,30,11,2,Gold,Antique Brass,5.41393E+12,18.00,100,2,20,5,42,22,42,0.194,1800,Approved,90
+Image_7,0171I40564,26140,China,Decorative Tray,Brass,small,22,9,1.5,Gold,Antique Brass,5.41393E+12,12.00,150,1,15,10,40,20,38,0.304,1800,Approved,95
+Image_7,0171I40566,26142,China,Decorative Tray,Brass,large,35,12,3,Gold,Antique Brass,5.41393E+12,24.00,200,1,25,8,44,24,45,0.38,4800,Approved,105
+Image_8,0171I40572,26141,China,Decorative Tray,Brass,medium,22,10,1,Gold,Antique Brass,5.41393E+12,14.50,300,2,30,10,42,22,42,0.388,4350,Approved,100
+Image_8,0171I40573,26142,China,Decorative Tray,Brass,medium,25,11,2,Gold,Antique Brass,5.41393E+12,18.50,200,1,20,10,44,24,45,0.475,3700,Approved,105
+Image_8,0171I40574,26143,China,Decorative Tray,Brass,large,28,13,3,Gold,Antique Brass,5.41393E+12,22.50,150,1,15,10,48,26,50,0.624,3375,Approved,110
+Image_9,0171I40589,26141,China,Decorative Glass Tray,Brass + Glass,medium,20,16.5,3.5,Gold,Antique Brass,5.41393E+12,13.00,150,1,10,15,42,29,58,1.06,1950,Approved,95
+Image_9,0171I40590,26143,Australia,Decorative Glass Tray,Brass + Glass,small,16,12,2,Gold,Antique Brass,5.41393E+12,10.00,200,1,20,10,40,25,45,0.45,2000,Approved,100
+Image_9,0171I40591,26141,Australia,Decorative Glass Tray,Brass + Glass,large,25,18,5,Gold,Antique Brass,5.41393E+12,16.00,100,1,10,10,45,30,50,0.675,1600,Approved,105
+Image_10,0171I40596,26111,China,Decorative cake stand 2 Tier,Brass + Glass,large,20,20,31.5,Gold,Antique Brass,5.41393E+12,23.50,100,1,5,20,42,29,53,1.291,2350,Approved,110
+Image_10,0171I40596,26111,Australia,Decorative cake stand 2 Tier,Brass + Glass,medium,20,20,35,Gold,Antique Brass,5.41393E+12,23.50,90,1,5,18,40,28,50,1.008,2115,Approved,115
+Image_10,0171I40596,26111,Australia,Decorative cake stand 2 Tier,Brass + Glass,small,20,20,30,Gold,Antique Brass,5.41393E+12,23.50,80,1,5,16,35,25,40,0.56,1880,Approved,120
+Image_11,0171I40602,26111,China,Decorative Glass Tray Round,Brass + Glass,medium,33,33,2.5,Gold,Antique Brass,5.41393E+12,18.00,150,1,6,25,52,33,65,2.789,2700,Approved,95
+Image_11,0171I40602,26111,China,Decorative Glass Tray Round,Brass + Glass,small,25,25,2,Gold,Antique Brass,5.41393E+12,15.00,100,2,15,6.67,40,20,35,0.187,1500,Approved,100
+Image_11,0171I40602,26111,China,Decorative Glass Tray Round,Brass + Glass,large,40,40,3,Gold,Antique Brass,5.41393E+12,22.00,100,1,10,10,55,35,70,1.348,2200,Approved,110
+Image_12,0171I40640,26111,China,Decorative Tray,Brass,medium,27,11,2,Gold,Antique Brass,5.41393E+12,14.50,200,2,20,10,42,29,58,0.706,2900,Approved,95
+Image_12,0171I40640,26111,Australia,Decorative Tray,Brass,small,22,10,1,Gold,Antique Brass,5.41393E+12,14.50,150,2,15,10,40,20,35,0.28,2175,Approved,100
+Image_12,0171I40640,26111,Australia,Decorative Tray,Brass,large,35,15,3,Gold,Antique Brass,5.41393E+12,18.50,100,1,10,10,50,30,60,0.9,1850,Approved,105
+Image_13,0171I40657,26111,China,Decorative Tray,Brass,small,25,25,2,Gold,Antique Brass,5.41393E+12,9.50,200,2,20,10,42,29,58,0.706,1900,Approved,95
+Image_13,0171I40657,26111,China,Decorative Tray,Brass,medium,30,12,2.5,Silver,Antique Brass,5.41393E+12,14.50,150,1,15,10,42,29,58,0.706,2175,Approved,100
+Image_13,0171I40657,26111,China,Decorative Tray,Brass,large,35,15,3,Silver,Antique Brass,5.41393E+12,18.50,100,1,10,10,50,30,60,0.9,1850,Approved,105
+Image_14,0171I40664,26111,China,Decorative Pen Stand,Brass,small,9,7,11,Gold,Antique Brass,5.41393E+12,9.00,150,1,30,5,42,29,53,0.323,1350,Approved,105
+Image_14,0171I40664,26111,China,Decorative Pen Stand,Brass,medium,12,8,15,Silver,Antique Brass,5.41393E+12,12.50,100,1,10,10,50,35,60,1.05,1250,Approved,110
+Image_14,0171I40664,26111,China,Decorative Pen Stand,Brass,large,15,10,20,Silver,Antique Brass,5.41393E+12,18.00,80,1,8,10,55,40,65,1.43,1440,Approved,115
+Image_15,0171I34571,26111,China,Decorative Cake Dome,Brass + Glass,large,33,33,27,Gold,Antique Brass,5.41393E+12,35.00,200,1,4,50,52,33,65,5.577,7000,Approved,120
+Image_15,0171I34571,26111,China,Decorative Cake Dome,Brass + Glass,medium,30,30,20,Gold,Antique Brass,5.41393E+12,30.00,150,1,5,30,45,30,60,2.43,4500,Approved,125
+Image_15,0171I34571,26111,China,Decorative Cake Dome,Brass + Glass,Extra-large,40,40,35,Gold,Antique Brass,5.41393E+12,50.00,100,1,4,25,60,40,70,4.2,5000,Approved,130
+Image_16,0171I32607,26111,China,Decorative Travel Oval mini,Brass + Glass,small,15,8,2,Gold,Antique Brass,5.41393E+12,13.00,200,1,20,10,42,29,58,0.706,2600,Approved,95
+Image_16,0171I32607,26111,China,Decorative Travel Oval mini,Brass + Glass,medium,18,10,3,Gold,Antique Brass,5.41393E+12,16.50,150,1,15,10,50,35,65,1.138,2475,Approved,100
+Image_16,0171I32607,26111,China,Decorative Travel Oval mini,Brass + Glass,large,25,15,5,Gold,Antique Brass,5.41393E+12,20.00,100,1,10,10,55,40,75,1.65,2000,Approved,105
+Image_17,0171I32409,26141,China,Decorative Basket with Handle,Brass + Glass,small,12,12,9,Gold,Antique Brass,5.41393E+12,11.00,200,1,8,25,42,29,53,1.614,2200,Approved,95
+Image_17,0171I32409,26141,China,Decorative Basket with Handle,Brass + Glass,medium,18,15,15,Gold,Antique Brass,5.41393E+12,14.50,150,1,10,15,50,35,60,1.575,2175,Approved,100
+Image_17,0171I32409,26141,China,Decorative Basket with Handle,Brass + Glass,large,22,20,18,Gold,Antique Brass,5.41393E+12,18.00,100,1,8,12.5,55,40,75,2.063,1800,Approved,110
+Image_18,0171I78134,26141,China,Decorative Magnifin,Brass + Glass + Resin,medium,20.5,7.5,1,Gold,Antique Brass,5.41393E+12,12.00,200,1,20,10,42,29,58,0.706,2400,Approved,95
+Image_18,0171I78134,26141,China,Decorative Magnifin,Brass + Glass + Resin,large,25,10,2.5,Gold,Antique Brass,5.41393E+12,15.50,150,1,15,10,50,35,65,1.138,2325,Approved,100
+Image_18,0171I78134,26141,China,Decorative Magnifin,Brass + Glass + Resin,Extra-large,30,12,5,Gold,Antique Brass,5.41393E+12,18.00,100,1,10,10,55,40,70,1.54,1800,Approved,110
+Image_19,0171I25449,26141,China,Decorative Box Flower,Brass + Glass,small,8.5,9.5,6,Gold,Antique Brass,5.41393E+12,8.50,200,1,20,10,42,29,53,0.646,1700,Approved,95
+Image_19,0171I25449,26141,China,Decorative Box Flower,Brass + Glass,medium,12,12,10,Gold,Antique Brass,5.41393E+12,12.00,150,1,10,15,50,35,60,1.575,1800,Approved,100
+Image_19,0171I25449,26141,China,Decorative Box Flower,Brass + Glass,Large,16,16,15,Gold,Antique Brass,5.41393E+12,15.00,100,1,8,12.5,55,40,75,2.063,1500,Approved,110
+Image_20,0171I05632,26141,China,Decorative Tray,Brass,small,28,12,1.5,Gold,Antique Brass,5.41393E+12,13.50,200,2,20,10,42,29,58,0.706,2700,Approved,95
+Image_20,0171I05632,26141,China,Decorative Tray,Brass,medium,30,15,2,Gold,Antique Brass,5.41393E+12,17.50,150,1,10,15,45,30,60,1.215,2625,Approved,100
+Image_20,0171I05632,26141,China,Decorative Tray,Brass,Large,35,18,3,Gold,Antique Brass,5.41393E+12,22.00,100,1,8,12.5,50,35,65,1.422,2200,Approved,110
+Image_21,0171I25388,26141,China,Decorative Box with Handle,Brass + Glass,small,8.5,6,10,Gold,Antique Brass,5.41393E+12,8.00,200,1,20,10,42,29,53,0.646,1600,Approved,95
+Image_21,0171I25388,26141,China,Decorative Box with Handle,Brass + Glass,medium,12,8,15,Gold,Antique Brass,5.41393E+12,11.50,150,1,12,12.5,45,30,58,0.979,1725,Approved,100
+Image_21,0171I25388,26141,China,Decorative Box with Handle,Brass + Glass,Large,16,12,18,Gold,Antique Brass,5.41393E+12,15.00,100,1,8,12.5,50,35,60,1.313,1500,Approved,110
+Image_22,0171I25401,26141,China,Decorative Basket with Handle,Brass + Glass,small,10,13,10,Gold,Antique Brass,5.41393E+12,9.00,200,1,20,10,42,29,58,0.706,1800,Approved,95
+Image_22,0171I25401,26141,China,Decorative Basket with Handle,Brass + Glass,medium,14,15,18,Gold,Antique Brass,5.41393E+12,13.00,150,1,10,15,45,30,60,1.215,1950,Approved,100
+Image_22,0171I25401,26141,China,Decorative Basket with Handle,Brass + Glass,Large,18,18,22,Gold,Antique Brass,5.41393E+12,16.00,100,1,8,12.5,50,35,65,1.422,1600,Approved,110
+Image_23,0171I25395,26141,China,Decorative Basket with Handle,Brass + Glass,small,9,9,13.5,Gold,Antique Brass,5.41393E+12,9.50,200,1,11.76,17.01,42,29,53,1.098,1900,Approved,95
+Image_23,0171I25395,26141,China,Decorative Basket with Handle,Brass + Glass,medium,12,12,15,Gold,Antique Brass,5.41393E+12,13.50,150,1,12,12.5,45,30,58,0.979,2025,Approved,100
+Image_23,0171I25395,26141,China,Decorative Basket with Handle,Brass + Glass,Large,16,16,20,Gold,Antique Brass,5.41393E+12,17.00,100,1,8,12.5,50,35,60,1.313,1700,Approved,110
+Image_24,0171I30207,26143,Australia,Decorative Basket with Rabbit Handle,Brass + Glass,small,15,11.5,6.5,Gold,Antique Brass,5.41393E+12,4.50,200,1,10,20,40,32,58,1.485,900,Approved,120
+Image_24,0171I30207,26143,Australia,Decorative Basket with Rabbit Handle,Brass + Glass,large,17,15,10,Gold,Antique Brass,5.41393E+12,5.00,150,2,5,30,34,60,50,3.06,750,Approved,125
+Image_24,0171I30207,26143,Australia,Decorative Basket with Rabbit Handle,Brass + Glass,medium,16,14,8,Gold,Antique Brass,5.41393E+12,6.00,180,1,15,12,33,59,45,1.051,1080,Approved,130
