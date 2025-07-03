@@ -5,3 +5,4 @@ pandas==2.2.2
 Pillow==10.3.0
 tensorflow==2.15.0
 gunicorn==21.2.0
+setuptools>=65.5.1
